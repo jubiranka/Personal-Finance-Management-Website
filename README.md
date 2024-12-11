@@ -73,7 +73,7 @@ The website is structured for modularity and efficiency:
 ### Dashboard
 Overview of savings, expenses, and investments.
 
-![Dashboard Screenshot](Home Page.png)
+![Dashboard Screenshot](https://github.com/jubiranka/Personal-Finance-Management-Website/blob/main/Home%20Page.png)
 
 ### Expense Splitting
 User-friendly interface to divide expenses.
