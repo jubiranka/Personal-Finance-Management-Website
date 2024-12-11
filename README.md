@@ -73,7 +73,7 @@ The website is structured for modularity and efficiency:
 ### Dashboard
 Overview of savings, expenses, and investments.
 
-![Dashboard Screenshot](path-to-image)
+![Dashboard Screenshot](Home Page.png)
 
 ### Expense Splitting
 User-friendly interface to divide expenses.
