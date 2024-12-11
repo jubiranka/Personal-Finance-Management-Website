@@ -78,11 +78,12 @@ Overview of savings, expenses, and investments.
 ### Expense Splitting
 User-friendly interface to divide expenses.
 
-![Expense Splitting Screenshot](path-to-image)
+![Expense Splitting Screenshot](https://github.com/jubiranka/Personal-Finance-Management-Website/blob/main/Split%20Expense%20on%20Add%20Page.png)
 
 ### Settings Page
 Customizable options for account and theme.
 
+![Expense Splitting Screenshot](https://github.com/jubiranka/Personal-Finance-Management-Website/blob/main/Settings%20Page%20with%20Dark%20Theme%20Apperance.png)
 
 ---
 
