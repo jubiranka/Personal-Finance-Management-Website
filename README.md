@@ -54,7 +54,7 @@ The website is structured for modularity and efficiency:
 
 2. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/personal-finance-management.git
+   git clone https://github.com/jubiranka/Personal-Finance-Management-Website/tree/main
    ```
 
 3. **Import Database**:
